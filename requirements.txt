@@ -1,0 +1,5 @@
+﻿streamlit
+sentence-transformers
+pypdf
+openai
+numpy
